@@ -1,3 +1,4 @@
+"use strict";
 (function Loader(){
 
     var urlParameters = location.href.toString().split('?');
