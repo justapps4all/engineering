@@ -8,14 +8,11 @@
 .navigation{
   display:none !important;
 }
-/*
+
 li.chapter > ul.articles {
     display:none !important;
 }
-*/
-li.active > ul.articles {
+
+li.active > ul.articles, li.chapter:has(> li.active) > ul.articles {
     display:block !important;
 }
-/*
-li.chapter:has(> li.active)
-*/
