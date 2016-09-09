@@ -9,6 +9,7 @@
   display:none !important;
 }
 
+/*
 li.chapter > ul.articles {
     display:none !important;
 }
@@ -20,4 +21,5 @@ li.active > ul.articles {
 ul.articles [class*="active"] {
     display:block !important;
 }
+*/
 
