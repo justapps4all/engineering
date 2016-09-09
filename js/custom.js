@@ -6,11 +6,12 @@ $(function() {
       $(this).parent().addClass('myclass2');
     });
   }, 1000);
-  
-  $('li.active').each(function(){
-    $(this).parent().addClass('myclass2');
-  });
 
+  setTimeout(function(){
+    $('li.active').each(function(){
+      $(this).parent().addClass('myclass2');
+    });
+  },1000);
 });
 
 
