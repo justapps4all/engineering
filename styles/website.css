@@ -9,7 +9,7 @@
   display:none !important;
 }
 
-li.chapter > ul:not(>li.active).articles {
+li.chapter > ul.articles {
     display:none !important;
 }
 
