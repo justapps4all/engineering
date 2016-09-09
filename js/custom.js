@@ -9,7 +9,7 @@ $(function() {
 
   setTimeout(function(){
     $('li.active').each(function(){
-      $(this).parent().addClass('myclass2');
+      $(this).parent().css('display','block');
     });
   },1000);
 });
