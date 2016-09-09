@@ -14,7 +14,7 @@ li.chapter > ul.articles {
     display:none !important;
 }
 
-li.myclass1 > ul.articles, li.myclass2 > ul.articles {
+li.myclass1 > ul.articles, li.myclass2 > ul.articles, li.active > ul.articles {
     display:block !important;
 }
 
