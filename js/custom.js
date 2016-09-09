@@ -10,7 +10,7 @@ $(function() {
   setTimeout(function(){
   
     $('li.chapter > ul.articles').each(function(){    
-      $(this).parent().css('display','none');
+      $(this).css('display','none');
     });
 
     $('li.active').each(function(){    
