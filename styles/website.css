@@ -11,7 +11,7 @@
 
 
 li.chapter > ul.articles {
-    display:none !important;
+    display:none important;
 }
 
 li.myclass1 > ul.articles, ul.myclass2, li.active > ul.articles {
