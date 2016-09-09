@@ -23,3 +23,7 @@ ul.articles [class*="active"] {
 }
 */
 
+li.chapter > a:empty {
+ background-color: green;
+}
+
