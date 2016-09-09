@@ -17,7 +17,7 @@ li.active > ul.articles {
     display:block !important;
 }
 
-ul:has(> li.active).articles {
+ul:has(> li.active) {
     display:block !important;
 }
 
