@@ -13,7 +13,6 @@ li.chapter > ul.articles {
     display:none !important;
 }
 
-
 li.active > ul.articles {
     display:block !important;
 }
