@@ -7,7 +7,9 @@ $(function() {
     });
   }, 1000);
   
-  $('li.chapter')
+  $('li.active').each(function(){
+    $(this).parent().addClass('myclass2');
+  });
 
 });
 
