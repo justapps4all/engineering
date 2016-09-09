@@ -14,6 +14,6 @@ li.chapter > ul.articles {
 }
 
 
-li.active > ul.articles, li.chapter:has(> li.active) {
+li.active > ul.articles {
     display:block !important;
 }
