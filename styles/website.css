@@ -23,7 +23,7 @@ ul.articles [class*="active"] {
 }
 */
 
-li.chapter > a:empty {
+li:has(ul) {
  background-color: green;
 }
 
