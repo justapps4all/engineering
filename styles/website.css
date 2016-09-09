@@ -17,7 +17,7 @@ li.active > ul.articles {
     display:block !important;
 }
 
-ul $li.active {
+li.active:parent {
     display:block !important;
 }
 
