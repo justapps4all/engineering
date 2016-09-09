@@ -17,3 +17,7 @@ li.active > ul.articles {
     display:block !important;
 }
 
+li > ul:has(.active) {
+    display:block !important;
+}
+
