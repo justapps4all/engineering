@@ -8,6 +8,6 @@
 .navigation{
   display:none !important;
 }
-:not(.chapter.active .articles) {
+li.active > ul.articles {
     display:none !important;
 }
