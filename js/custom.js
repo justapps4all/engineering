@@ -8,8 +8,13 @@ $(function() {
   }, 1000);
 
   setTimeout(function(){
-    $('li.active').each(function(){
-      $(this).parent().css('display','block !important');
+  
+    $('li.chapter > ul.articles').each(function(){    
+      $(this).parent().css('display','none');
+    });
+
+    $('li.active').each(function(){    
+      $(this).parent().css('display','block');
     });
   },1000);
 });
