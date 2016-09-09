@@ -8,3 +8,6 @@
 .navigation{
   display:none !important;
 }
+:not(.chapter.active .articles) {
+    display:none !important;
+}
