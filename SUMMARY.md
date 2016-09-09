@@ -1,4 +1,4 @@
 # Summary
 
-* Architecture
+* [Architecture](architecture.md)
 
