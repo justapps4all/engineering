@@ -9,7 +9,7 @@ $(function() {
 
   setTimeout(function(){
     $('li.active').each(function(){
-      $(this).parent().css('display','block');
+      $(this).parent().css('display','block !important');
     });
   },1000);
 });
