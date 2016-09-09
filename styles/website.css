@@ -1,4 +1,4 @@
 /* CSS for website */
 .gitbook-link{
-  display:none;
+  display:none !important;
 }
