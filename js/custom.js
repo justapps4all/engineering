@@ -5,5 +5,6 @@ if(e&&1===a.nodeType)while(c=e[d++])a.removeAttribute(c)}}),hb={set:function(a,b
 
 
 $('li.chapter').on('click',function(){
-  alert('click');
+  $('li.chapter > ul.articles').hide();
+  $('li.chapter.active > ul.articles').show();
 });
