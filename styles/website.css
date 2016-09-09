@@ -14,12 +14,10 @@ li.chapter > ul.articles {
     display:none !important;
 }
 
-li.active > ul.articles {
+li.active2 > ul.articles {
     display:block !important;
 }
 
-ul.articles [class*="active"] {
-    display:block !important;
-}
+
 
 
