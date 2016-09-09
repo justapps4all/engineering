@@ -6,6 +6,7 @@ if(e&&1===a.nodeType)while(c=e[d++])a.removeAttribute(c)}}),hb={set:function(a,b
 setInterval(function(){ 
   $('li.chapter').off();
   $('li.chapter').on('click',function(){
+    $(this).addClass('active3');
     $(this).parent().addClass('active2');
   });
 }, 1000);
