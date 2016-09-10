@@ -12,4 +12,5 @@
    * [Designing: Planning Construction](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
    * [JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md](JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md)
    * [JavaEEArchitecture/3Building_10_BuildingDataAccessObjects.md](JavaEEArchitecture/3Building_10_BuildingDataAccessObjects.md)
+   * JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md
 
