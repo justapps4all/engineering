@@ -1,4 +1,5 @@
 {
+  "gitbook": "0.2.0",
   "plugins": [
     "addcssjs",
     "collapsible-menu"
