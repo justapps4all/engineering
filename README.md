@@ -11,17 +11,17 @@ As you should know, server are scalables, you can buy new servers, but budget us
 
 We are going to review the incoming technologies for Enterprise Web Applications development.
 
-- Java EE Architecture
-- ES6 / ES2015
-- Node
-- Express
-- Angular
-- Angular2
-- MongoDB
+- Java EE Architecture (coming soon)
+- ES6 / ES2015 (coming soon)
+- Node (coming soon)
+- Express (coming soon)
+- Angular (coming soon)
+- Angular2 (coming soon)
+- MongoDB (coming soon)
 
 
 Extra articles:
-- Doker
-- Spring Boot
+- Doker (coming soon)
+- Spring Boot (coming soon)
 
 
