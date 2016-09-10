@@ -24,6 +24,9 @@ ul.summary > li:first-of-type{
   padding: 10px 15px;
 }
 
+li.chapter > a{
+  padding: 5px !important;
+}
 
 
 
