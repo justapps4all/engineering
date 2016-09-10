@@ -1,3 +1,8 @@
+
+# Building: Coding Value Objects And Entities
+
+
+
 -   Always implement java.io.Serializable. If you put a non-serializable object
     in a value object, declare **transient** so it’s bypassed during any
     serialization attempts.
