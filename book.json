@@ -1,13 +1,6 @@
 {
   "gitbook": ">= 3.0.0",
   "plugins": [
-    "addcssjs",
     "collapsible-menu"
-  ],
-  "pluginsConfig": {
-    "addcssjs": {
-      "js": ["js/custom.js"],
-      "css": ["css/custom.css"]
-    }
-  }
+  ]
 }
