@@ -1,3 +1,8 @@
+
+# Planning: Scope Definition And Estimation
+
+
+
 Get agreement on the use case from the project sponsor
 
 Document any assumptions made in determining project scope
