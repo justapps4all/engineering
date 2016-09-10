@@ -18,7 +18,10 @@ ul.summary > li:first-of-type:after {
   font-weight: 900;
   font-size: 2rem;
   content: "JustApps4All Engineering";
-  margin: 15px ;
+}
+
+ul.summary > li:first-of-type{
+  padding: 10px 15px;
 }
 
 
