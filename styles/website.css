@@ -11,11 +11,16 @@
 }
 
 .custom-link{
-  text-decoration:none;
+  display:none
+}
+
+ul.summary > li{
   font-weight: 900;
   font-size: 2rem;
-  content: "JustApps4All Engineering";
+}
 
+ul.summary > li:after{
+  content: "JustApps4All Engineering";
 }
 
 
