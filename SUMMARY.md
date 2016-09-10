@@ -12,7 +12,7 @@
    * [Designing: Planning Construction](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
    * [Building: Coding Value Objects And Entities](JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md)
    * [Building: Building Data Access Objects](JavaEEArchitecture/3Building_10_BuildingDataAccessObjects.md)
-   * [JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md](JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md)
+   * [Building: Building Business Objects](JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md)
    * [JavaEEArchitecture/3Building_12_BuildingDeploymentAndPresentationLayers .md](JavaEEArchitecture/3Building_12_BuildingDeploymentAndPresentationLayers .md)
    * [JavaEEArchitecture/3Building_13_MakingTechnologyProductSelections.md](JavaEEArchitecture/3Building_13_MakingTechnologyProductSelections.md)
    * [JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md](JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md)
