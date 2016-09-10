@@ -10,5 +10,5 @@
    * [Designing: Object Models](JavaEEArchitecture/2Designing_06_ObjectModels.md)
    * [Designing: Data Model](JavaEEArchitecture/2Designing_07_DataModel.md)
    * [Designing: Planning Construction](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
-   * JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md
+   * [JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md](JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md)
 
