@@ -10,11 +10,15 @@
   display:none !important;
 }
 
-a.custom-link{
-  text-decoration: none !important;
+ul.summary > li > a.custom-link{
+  display: none !important;
+}
+
+ul.summary > li:first-of-type:after {
   font-weight: 900;
   font-size: 2rem;
   content: "JustApps4All Engineering";
+  margin: 15px ;
 }
 
 
