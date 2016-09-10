@@ -1,3 +1,8 @@
+
+# Planning: Designing External Application Interfaces
+
+
+
 External interfaces create stability risk
 
 External interfaces complicate development and support activities
