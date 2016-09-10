@@ -8,5 +8,5 @@
    * [Planning: Designing External Application Interfaces](JavaEEArchitecture/1Planning_04_DesigningExternalApplicationInterfaces.md)
    * [JavaEEArchitecture/2Designing_05_LayerApproach.md](JavaEEArchitecture/2Designing_05_LayerApproach.md)
    * [JavaEEArchitecture/2Designing_06_ObjectModels.md](JavaEEArchitecture/2Designing_06_ObjectModels.md)
-   * JavaEEArchitecture/2Designing_07_DataModel.md
+   * [JavaEEArchitecture/2Designing_07_DataModel.md](JavaEEArchitecture/2Designing_07_DataModel.md)
 
