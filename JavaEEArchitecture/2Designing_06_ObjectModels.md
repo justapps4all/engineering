@@ -1,3 +1,7 @@
+
+# Designing: Object Models
+
+
 The application architect is responsible for facilitating design discussions,
 which should involve the business logic and presentation-tier developers in the
 design process
