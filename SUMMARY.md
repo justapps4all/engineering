@@ -15,4 +15,5 @@
    * [JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md](JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md)
    * JavaEEArchitecture/3Building_12_BuildingDeploymentAndPresentationLayers .md
    * JavaEEArchitecture/3Building_13_MakingTechnologyProductSelections.md
+   * JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md
 
