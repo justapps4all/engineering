@@ -16,5 +16,5 @@
    * [JavaEEArchitecture/3Building_12_BuildingDeploymentAndPresentationLayers .md](JavaEEArchitecture/3Building_12_BuildingDeploymentAndPresentationLayers .md)
    * [JavaEEArchitecture/3Building_13_MakingTechnologyProductSelections.md](JavaEEArchitecture/3Building_13_MakingTechnologyProductSelections.md)
    * [JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md](JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md)
-   * JavaEEArchitecture/3Building_15_ApplicationArchitectureStrategies.md
+   * [JavaEEArchitecture/3Building_15_ApplicationArchitectureStrategies.md](JavaEEArchitecture/3Building_15_ApplicationArchitectureStrategies.md)
 
