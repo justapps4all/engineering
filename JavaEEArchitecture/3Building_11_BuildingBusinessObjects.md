@@ -1,3 +1,7 @@
+
+# Building. Building Business Objects
+
+
 Business Object Coding Patters, the most commonly used is the Transaction Script
 pattern [Fowler], but it is not always considered as OO pattern.
 
