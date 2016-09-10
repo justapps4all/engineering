@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Angular2](2_angular2.md)
-* Java EE Architecture
+* [Java EE Architecture](java_ee_architecture.md)
 
