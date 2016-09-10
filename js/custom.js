@@ -1,7 +1,7 @@
 
 $(function() {
 
-  $('.custom-link').attr('href','');
+  $('.custom-link').attr('href','/').removeAttr('target');
 
 /*
 
