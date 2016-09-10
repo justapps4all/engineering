@@ -9,7 +9,7 @@
    * [Designing. Layer Approach](JavaEEArchitecture/2Designing_05_LayerApproach.md)
    * [Designing. Object Models](JavaEEArchitecture/2Designing_06_ObjectModels.md)
    * [Designing. Data Model](JavaEEArchitecture/2Designing_07_DataModel.md)
-   * [Designing: Planning Construction](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
+   * [Designing. Planning Construction](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
    * [Building. Coding Value Objects And Entities](JavaEEArchitecture/3Building_09_CodingValueObjectsAndEntities.md)
    * [Building. Building Data Access Objects](JavaEEArchitecture/3Building_10_BuildingDataAccessObjects.md)
    * [Building. Building Business Objects](JavaEEArchitecture/3Building_11_BuildingBusinessObjects.md)
