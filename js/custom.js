@@ -1,3 +1,4 @@
+/*
 $(function() {
   setInterval(function(){ 
     $('li.chapter').off();
@@ -18,6 +19,7 @@ $(function() {
     });
   },1000);
 });
+*/
 
 
 
