@@ -1,3 +1,7 @@
+
+# Building. Application Architecture Strategies
+
+
 ### Logging Strategies
 
 -   Limit coding for logging methods to one line
