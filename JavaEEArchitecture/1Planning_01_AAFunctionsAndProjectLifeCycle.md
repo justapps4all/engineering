@@ -1,5 +1,5 @@
 
-# Functions And Project Life Cycle
+# Planning: Functions And Project Life Cycle
 
 
 
