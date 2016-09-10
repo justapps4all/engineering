@@ -18,5 +18,4 @@
    * [Building. Building Architectural Components](JavaEEArchitecture/3Building_14_BuildingArchitecturalComponents.md)
    * [Building. Application Architecture Strategies](JavaEEArchitecture/3Building_15_ApplicationArchitectureStrategies.md)
    * [Maintaining. Testing Guidelines And Strategy](JavaEEArchitecture/4Maintaining_16_TestingGuidelinesAndStrategy.md)
-   * [Maintaining. Finding Your Way When Technologies Change](maintaining_finding_your_way_when_technologies_cha.md)
 
