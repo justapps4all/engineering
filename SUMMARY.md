@@ -6,7 +6,7 @@
    * [Planning: Defining The Project](JavaEEArchitecture/1Planning_02_DefiningTheProject.md)
    * [Planning: Scope Definition And Estimation](JavaEEArchitecture/1Planning_03_ScopeDefinitionAndEstimation.md)
    * [Planning: Designing External Application Interfaces](JavaEEArchitecture/1Planning_04_DesigningExternalApplicationInterfaces.md)
-   * [JavaEEArchitecture/2Designing_05_LayerApproach.md](JavaEEArchitecture/2Designing_05_LayerApproach.md)
+   * [Designing: Layer Approach](JavaEEArchitecture/2Designing_05_LayerApproach.md)
    * [JavaEEArchitecture/2Designing_06_ObjectModels.md](JavaEEArchitecture/2Designing_06_ObjectModels.md)
    * [JavaEEArchitecture/2Designing_07_DataModel.md](JavaEEArchitecture/2Designing_07_DataModel.md)
    * [JavaEEArchitecture/2Designing_08_PlanningConstruction.md](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
