@@ -9,17 +9,14 @@
 .navigation{
   display:none !important;
 }
-/*
-a.custom-link {
-  display:none
-}
 
-ul.summary > li:after{
+a.custom-link{
+  text-decoration: none !important;
   font-weight: 900;
   font-size: 2rem;
   content: "JustApps4All Engineering";
 }
-*/
+
 
 
 
