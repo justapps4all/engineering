@@ -9,5 +9,5 @@
    * [JavaEEArchitecture/2Designing_05_LayerApproach.md](JavaEEArchitecture/2Designing_05_LayerApproach.md)
    * [JavaEEArchitecture/2Designing_06_ObjectModels.md](JavaEEArchitecture/2Designing_06_ObjectModels.md)
    * [JavaEEArchitecture/2Designing_07_DataModel.md](JavaEEArchitecture/2Designing_07_DataModel.md)
-   * JavaEEArchitecture/2Designing_08_PlanningConstruction.md
+   * [JavaEEArchitecture/2Designing_08_PlanningConstruction.md](JavaEEArchitecture/2Designing_08_PlanningConstruction.md)
 
