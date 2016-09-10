@@ -1,3 +1,7 @@
+
+# Building. Building Architectural Components
+
+
 Component requirements
 
 -   Component Quality: Shorten development time and effort, shorten expected
