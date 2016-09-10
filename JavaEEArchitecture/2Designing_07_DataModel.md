@@ -1,5 +1,5 @@
 
-# Designing: Data Model
+# Designing. Data Model
 
 
 **Design Practices and Normal Form (3NF)**
