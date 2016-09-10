@@ -1,3 +1,7 @@
+
+# Designing: Data Model
+
+
 **Design Practices and Normal Form (3NF)**
 
 -   All repeating attribute groups should be removed and placed in a separate
