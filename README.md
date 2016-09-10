@@ -9,8 +9,9 @@ At the moment we have two popular technologies at the top level, Java EE and MEA
 
 As you should know, server are scalables, you can buy new servers, but budget usually is not scalable too much. HTML5 MEAN technologies help you to reduce the data center cost.
 
-I recommended to know about the following incoming technologies for Enterprise Web Applications development.
+We are going to review the incoming technologies for Enterprise Web Applications development.
 
+- Java EE Architecture
 - ES6 / ES2015
 - Node
 - Express
