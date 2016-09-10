@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "addcssjs"
+    "addcssjs",
+    "collapsible-menu"
   ],
   "pluginsConfig": {
     "addcssjs": {
