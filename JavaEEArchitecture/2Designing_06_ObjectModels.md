@@ -1,5 +1,5 @@
 
-# Designing: Object Models
+# Designing. Object Models
 
 
 The application architect is responsible for facilitating design discussions,
